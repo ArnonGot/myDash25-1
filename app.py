@@ -225,4 +225,4 @@ def update_graph(selected_branch):
 
 # ✅ Run
 if __name__ == '__main__':
-    app.run(debug=True, port=8052)
+    app.run()
